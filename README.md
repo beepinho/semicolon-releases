@@ -28,7 +28,8 @@
 - **Reminders**: notifications for tasks, events and birthdays, even when the window is closed.
 - **Search everything**: press **Ctrl + K** (**⌘ K** on Mac) to find any task, event, birthday, list or note.
 - **Quick add from anywhere**: press **Ctrl + Shift + Space** (**⌘ ⇧ Space** on Mac) in any app, type "Dentist tomorrow 3pm", and it's added.
-- **Runs quietly in the background**: closing the window keeps Semicolon next to the clock (Windows) or in the menu bar (Mac), and it can start with your computer.
+- **Runs quietly in the background**: closing the window keeps Semicolon next to the clock (Windows) or in the menu bar (Mac). Click the icon to open it again, or right-click for Quick add and Quit.
+- **Starts with your computer** (optional): Semicolon starts quietly as the icon when you sign in, or opens its window if you prefer. Choose in **Settings → In the background**.
 - **Make it yours**: light and dark mode, 11 themes plus your own colors, and a soft moving glow.
 - **Speaks your language**: English, Français, Português, Deutsch and Español, picked from your computer's language.
 - **Updates itself**: when a new version is out, an Update button appears in the app.
@@ -72,6 +73,13 @@ Everything is saved only on your computer. Semicolon has no account and doesn't 
 The weather uses [Open-Meteo](https://open-meteo.com), and only your city's approximate location is sent.
 
 You can back everything up to one file in **Settings → Backup**, and restore it on another computer, Windows or Mac.
+
+## Closing and quitting
+
+- **Close the window (✕)**: Semicolon keeps running as an icon so your reminders still arrive.
+  You can turn this off in **Settings → In the background → Keep running when closed**.
+- **Quit completely**: right-click the icon and choose **Quit Semicolon** (on Mac you can also press **⌘ Q**).
+  Reminders only arrive while Semicolon is running.
 
 ## Keyboard shortcuts
 
