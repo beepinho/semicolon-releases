@@ -12,11 +12,18 @@
 
 <p align="center">
   <a href="https://github.com/beepinho/semicolon-releases/releases/latest"><b>⬇ Download the latest version</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://buymeacoffee.com/beepinho"><b>☕ Buy me a coffee</b></a>
 </p>
 
 <p align="center">
   <img src="screenshots/today-light.png" alt="Semicolon's Today page in light mode">
 </p>
+
+## New in 1.3.1
+
+- **Games**: a new tab with Snake and Bricks, on a green old-phone screen, for your breaks. If a focus break is running, the Games page shows how much time is left. You can hide the tab in **Settings → Games**.
+- **Buy me a coffee**: Semicolon stays free. If you'd like to support it, there's a link in **Settings → About**.
 
 ## What's inside
 
@@ -95,6 +102,10 @@ You can back everything up to one file in **Settings → Backup**, and restore i
 | Search | Ctrl + K | ⌘ K |
 | Quick add from any app | Ctrl + Shift + Space | ⌘ ⇧ Space |
 | Today, Calendar, Tasks, Notes, Games, Settings | Ctrl + 1 to 6 | ⌘ 1 to 6 |
+
+## Support Semicolon
+
+Semicolon is free, with no ads and no data collection. If it helps you, you can [buy me a coffee](https://buymeacoffee.com/beepinho). Thank you!
 
 ## Help
 
