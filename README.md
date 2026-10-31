@@ -6,7 +6,7 @@
 
 <p align="center">
   Your day, calm and organized.<br>
-  Tasks, calendar, birthdays, habits, a focus timer and notes, in one glassy little app.<br>
+  Tasks, calendar, birthdays, habits, a focus timer, notes and little games for your breaks, in one glassy app.<br>
   Free for Windows and Mac.
 </p>
 
@@ -24,7 +24,9 @@
 - **Calendar**: month and year views, events that repeat, and birthdays with ages.
 - **Tasks**: smart lists (Today, Scheduled, All, Completed) and your own colored lists with checklists.
 - **Notes**: written notes and voice notes.
+- **Holidays** (optional): public holidays and special days for your country, in the calendar and on Today. Works offline.
 - **Focus timer**: calm focus and break sessions that keep running while you use other apps.
+- **Games for your breaks**: Snake and Bricks on a green old-phone screen. Your best scores stay on your computer. More games come with updates, and you can hide the tab in Settings.
 - **Reminders**: notifications for tasks, events and birthdays, even when the window is closed.
 - **Search everything**: press **Ctrl + K** (**⌘ K** on Mac) to find any task, event, birthday, list or note.
 - **Quick add from anywhere**: press **Ctrl + Shift + Space** (**⌘ ⇧ Space** on Mac) in any app, type "Dentist tomorrow 3pm", and it's added.
@@ -45,6 +47,10 @@
 <p align="center">
   <img src="screenshots/search.png" width="49%" alt="Search">
   <img src="screenshots/settings.png" width="49%" alt="Settings">
+</p>
+<p align="center">
+  <img src="screenshots/games.png" width="49%" alt="Games">
+  <img src="screenshots/snake.png" width="49%" alt="Snake">
 </p>
 
 ## Download and install
@@ -88,7 +94,7 @@ You can back everything up to one file in **Settings → Backup**, and restore i
 | Add something | Ctrl + N | ⌘ N |
 | Search | Ctrl + K | ⌘ K |
 | Quick add from any app | Ctrl + Shift + Space | ⌘ ⇧ Space |
-| Today, Calendar, Tasks, Notes, Settings | Ctrl + 1 to 5 | ⌘ 1 to 5 |
+| Today, Calendar, Tasks, Notes, Games, Settings | Ctrl + 1 to 6 | ⌘ 1 to 6 |
 
 ## Help
 
