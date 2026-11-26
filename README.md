@@ -111,6 +111,10 @@ Semicolon is free, with no ads and no data collection. If it helps you, you can 
 
 Questions or found a bug? Email **beepinhobusiness@hotmail.com**.
 
+## Terms of use
+
+Semicolon is provided as is, free of charge, without warranty of any kind. You are responsible for your own data and backups. beepinho is not liable for any loss of tasks, events, notes or other data, or for any damage arising from the use of Semicolon. By using it you accept this.
+
 ---
 
 <p align="center">Made by beepinho · © beepinho. All rights reserved.</p>
