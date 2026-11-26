@@ -1,98 +1,57 @@
-<p align="center">
-  <img src="screenshots/icon.png" width="112" alt="Semicolon app icon">
-</p>
+# Semicolon
 
-<h1 align="center">Semicolon</h1>
+Your day, calm and organized. Tasks, calendar, birthdays, habits, a focus timer, notes and little games for your breaks, in one glassy app for Mac and Windows. Everything stays on your own computer.
 
-<p align="center">
-  Your day, calm and organized.<br>
-  Tasks, calendar, birthdays, habits, a focus timer, notes and little games for your breaks, in one glassy app.<br>
-  Free for Windows and Mac.
-</p>
+Made by beepinho. Free.
 
-<p align="center">
-  <a href="https://github.com/beepinho/semicolon-releases/releases/latest"><b>⬇ Download the latest version</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://buymeacoffee.com/beepinho"><b>☕ Buy me a coffee</b></a>
-</p>
+![Today](screenshots/today-light.png)
 
-<p align="center">
-  <img src="screenshots/today-light.png" alt="Semicolon's Today page in light mode">
-</p>
+## Download
 
-## New in 1.3.1
+Go to **[Releases](../../releases/latest)** and pick your installer:
 
-- **Games**: a new tab with Snake and Bricks, on a green old-phone screen, for your breaks. If a focus break is running, the Games page shows how much time is left. You can hide the tab in **Settings → Games**.
-- **Buy me a coffee**: Semicolon stays free. If you'd like to support it, there's a link in **Settings → About**.
+- **Mac:** `Semicolon_x.x.x_universal.dmg` — open it and drag Semicolon to Applications. Works on macOS 10.15 Catalina and newer, Intel and Apple Silicon.
+- **Windows:** `Semicolon_x.x.x_x64-setup.exe` — open it. Semicolon opens when it's done, and you'll find it in the Start menu.
 
-## What's inside
+### Why your computer warns you the first time
 
-- **Today**: your week at a glance, what's up next, your to-do list, the weather, habits and upcoming birthdays.
-- **Calendar**: month and year views, events that repeat, and birthdays with ages.
-- **Tasks**: smart lists (Today, Scheduled, All, Completed) and your own colored lists with checklists.
-- **Notes**: written notes and voice notes.
-- **Holidays** (optional): public holidays and special days for your country, in the calendar and on Today. Works offline.
-- **Focus timer**: calm focus and break sessions that keep running while you use other apps.
-- **Games for your breaks**: Snake and Bricks on a green old-phone screen. Your best scores stay on your computer. More games come with updates, and you can hide the tab in Settings.
-- **Reminders**: notifications for tasks, events and birthdays, even when the window is closed.
-- **Search everything**: press **Ctrl + K** (**⌘ K** on Mac) to find any task, event, birthday, list or note.
-- **Quick add from anywhere**: press **Ctrl + Shift + Space** (**⌘ ⇧ Space** on Mac) in any app, type "Dentist tomorrow 3pm", and it's added.
-- **Runs quietly in the background**: closing the window keeps Semicolon next to the clock (Windows) or in the menu bar (Mac). Click the icon to open it again, or right-click for Quick add and Quit.
-- **Starts with your computer** (optional): Semicolon starts quietly as the icon when you sign in, or opens its window if you prefer. Choose in **Settings → In the background**.
-- **Make it yours**: light and dark mode, 11 themes plus your own colors, and a soft moving glow.
-- **Speaks your language**: English, Français, Português, Deutsch and Español, picked from your computer's language.
-- **Updates itself**: when a new version is out, an Update button appears in the app.
+Semicolon is a free app made by one person, so it isn't signed with a paid Apple or Microsoft certificate. Both systems warn about apps like that. You only see it the first time you open it.
 
-<p align="center">
-  <img src="screenshots/today-dark.png" width="49%" alt="Today page in dark mode">
-  <img src="screenshots/calendar.png" width="49%" alt="Calendar">
-</p>
-<p align="center">
-  <img src="screenshots/tasks.png" width="49%" alt="Tasks">
-  <img src="screenshots/notes.png" width="49%" alt="Notes">
-</p>
-<p align="center">
-  <img src="screenshots/search.png" width="49%" alt="Search">
-  <img src="screenshots/settings.png" width="49%" alt="Settings">
-</p>
-<p align="center">
-  <img src="screenshots/games.png" width="49%" alt="Games">
-  <img src="screenshots/snake.png" width="49%" alt="Snake">
-</p>
+- **Mac:** right-click Semicolon in Applications and choose **Open**, then **Open** again. On newer Macs you may need **System Settings → Privacy & Security → Open Anyway** instead.
+- **Windows:** if it says *"Windows protected your PC"*, click **More info**, then **Run anyway**. If Windows Defender blocks it, that's a false alarm for the same reason: open **Windows Security → Protection history**, choose the Semicolon entry, then **Actions → Allow on device**.
 
-## Download and install
+Semicolon updates itself: when a new version is out, an Update button appears in the app.
 
-Go to the **[latest release](https://github.com/beepinho/semicolon-releases/releases/latest)** and open **Assets**.
+## What it does
 
-### Windows 10 and 11
+| | |
+|---|---|
+| ![Today in dark mode](screenshots/today-dark.png) | ![Calendar](screenshots/calendar.png) |
+| ![Tasks](screenshots/tasks.png) | ![Notes](screenshots/notes.png) |
 
-1. Download **`Semicolon_x.x.x_x64-setup.exe`** and open it.
-2. If Windows says *"Windows protected your PC"*, click **More info**, then **Run anyway**.
-3. Semicolon opens when it's done, and you'll find it in the Start menu.
-4. If Windows Defender blocks it, it's a false alarm because the app isn't paid-signed. Open **Windows Security → Protection history**, choose the Semicolon entry, then **Actions → Allow on device**.
+- **Today** — your week at a glance, what's up next, your to-do list, the weather, habits and upcoming birthdays.
+- **Calendar** — month and year views, events that repeat, and birthdays with ages.
+- **Tasks** — smart lists (Today, Scheduled, All, Completed) and your own colored lists with checklists.
+- **Notes** — written notes and voice notes.
+- **Holidays** (optional) — public holidays and special days for your country, in the calendar and on Today. Works offline.
+- **Focus timer** — calm focus and break sessions that keep running while you use other apps.
+- **Games for your breaks** — Snake and Bricks on a green old-phone screen. Your best scores stay on your computer, and you can hide the tab in Settings.
+- **Reminders** — notifications for tasks, events and birthdays, even when the window is closed.
+- **Search everything** — press **Ctrl + K** (**⌘ K** on Mac) to find any task, event, birthday, list or note.
+- **Quick add from anywhere** — press **Ctrl + Shift + Space** (**⌘ ⇧ Space** on Mac) in any app, type "Dentist tomorrow 3pm", and it's added.
+- **Runs quietly in the background** — closing the window keeps Semicolon next to the clock (Windows) or in the menu bar (Mac). Click the icon to open it again, or right-click for Quick add and Quit.
+- **Starts with your computer** (optional) — as the icon or with its window open; choose in **Settings → In the background**.
+- **Make it yours** — light and dark mode, 11 themes plus your own colors, and a soft moving glow.
+- **Languages** — English, French, Portuguese, German and Spanish, following your computer.
 
-### Mac (Apple Silicon and Intel, macOS 10.15 Catalina or newer)
+![Search](screenshots/search.png)
 
-1. Download **`Semicolon_x.x.x_universal.dmg`** and open it.
-2. Drag **Semicolon** into **Applications**.
-3. The first time, right-click Semicolon in Applications and choose **Open**, then **Open** again.
-   On newer Macs you may need **System Settings → Privacy & Security → Open Anyway** instead.
-
-> **Why the warning?** Semicolon is a free app made by one person, so it isn't signed with a paid Apple or Microsoft certificate. You only see the warning the first time you open it.
-
-## Your data stays with you
-
-Everything is saved only on your computer. Semicolon has no account and doesn't collect any data.
-The weather uses [Open-Meteo](https://open-meteo.com), and only your city's approximate location is sent.
-
-You can back everything up to one file in **Settings → Backup**, and restore it on another computer, Windows or Mac.
+![Settings](screenshots/settings.png)
 
 ## Closing and quitting
 
-- **Close the window (✕)**: Semicolon keeps running as an icon so your reminders still arrive.
-  You can turn this off in **Settings → In the background → Keep running when closed**.
-- **Quit completely**: right-click the icon and choose **Quit Semicolon** (on Mac you can also press **⌘ Q**).
-  Reminders only arrive while Semicolon is running.
+- **Close the window (✕)**: Semicolon keeps running as an icon so your reminders still arrive. You can turn this off in **Settings → In the background → Keep running when closed**.
+- **Quit completely**: right-click the icon and choose **Quit Semicolon** (on Mac you can also press **⌘ Q**). Reminders only arrive while Semicolon is running.
 
 ## Keyboard shortcuts
 
@@ -103,13 +62,19 @@ You can back everything up to one file in **Settings → Backup**, and restore i
 | Quick add from any app | Ctrl + Shift + Space | ⌘ ⇧ Space |
 | Today, Calendar, Tasks, Notes, Games, Settings | Ctrl + 1 to 6 | ⌘ 1 to 6 |
 
-## Support Semicolon
+Games for your breaks:
 
-Semicolon is free, with no ads and no data collection. If it helps you, you can [buy me a coffee](https://buymeacoffee.com/beepinho). Thank you!
+![Games](screenshots/games.png)
 
-## Help
+## Privacy
 
-Questions or found a bug? Email **beepinhobusiness@hotmail.com**.
+Everything is saved only on your computer. Semicolon has no account and collects no data. The weather uses [Open-Meteo](https://open-meteo.com), and only your city's approximate location is sent. You can back everything up to one file in **Settings → Backup** and restore it on another computer, Windows or Mac.
+
+## Support
+
+Questions and problems: **beepinhobusiness@hotmail.com**
+
+If Semicolon is useful to you: [buymeacoffee.com/beepinho](https://buymeacoffee.com/beepinho)
 
 ## Terms of use
 
@@ -117,4 +82,4 @@ Semicolon is provided as is, free of charge, without warranty of any kind. You a
 
 ---
 
-<p align="center">Made by beepinho · © beepinho. All rights reserved.</p>
+Made by beepinho · © beepinho. All rights reserved.
